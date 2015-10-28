@@ -69,12 +69,12 @@
                                     <type>jbin.zip</type>
                                     <classifier>Full</classifier>
                                 </artifact>
-                                <artifact>
+                                <!-- artifact>
                                     <groupId>com.informatics</groupId>
                                     <artifactId>cement-report-runner</artifactId>
                                     <version>1.0</version>
                                     <type>zip</type>
-                                </artifact>
+                                </artifact-->
                                 <artifact>
                                     <groupId>gov.vha.isaac.isaac-metadata.modules</groupId>
                                     <artifactId>isaac-metadata-artifacts</artifactId>
@@ -82,12 +82,12 @@
                                     <version>${isaac-metadata.version}</version>
                                     <type>econ.zip</type>
                                 </artifact>
-                                <artifact>
+                                <!--artifact>
                                     <groupId>com.informatics</groupId>
                                     <artifactId>otf-query-services-reports</artifactId>
                                     <version>1.5</version>
                                     <type>zip</type>
-                                </artifact>
+                                </artifact-->
                            </artifactItems>
                            <outputDirectory>${project.build.directory}/test-resources/</outputDirectory>
                         </configuration>
