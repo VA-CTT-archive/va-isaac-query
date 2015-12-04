@@ -3,7 +3,7 @@
     <modelVersion>4.0.0</modelVersion>
     <parent>
         <groupId>gov.vha.isaac</groupId>
-        <artifactId>isaac-parent</artifactId>
+        <artifactId>va-isaac-parent</artifactId>
         <version>1.11-SNAPSHOT</version>
     </parent>
     
@@ -16,7 +16,7 @@
     <description>Parent project of modules that support query functions</description>
 
     <scm>
-        <url>https://github.com/Apelon-VA/va-query-service.git</url>
+        <url>https://github.com/VA-CTT/va-query-service.git</url>
     </scm>
 
     <properties>
