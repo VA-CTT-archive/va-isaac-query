@@ -8,7 +8,7 @@
     </parent>
     
     <groupId>gov.vha.isaac.query-service</groupId>
-    <artifactId>query-parent</artifactId>
+    <artifactId>va-isaac-query</artifactId>
     <version>2.19-SNAPSHOT</version>
     <packaging>pom</packaging>
     <name>${project.artifactId}: (MMP)</name>
@@ -16,7 +16,7 @@
     <description>Parent project of modules that support query functions</description>
 
     <scm>
-        <url>https://github.com/VA-CTT/va-query-service.git</url>
+        <url>https://github.com/VA-CTT/va-isaac-query.git</url>
     </scm>
 
     <properties>
